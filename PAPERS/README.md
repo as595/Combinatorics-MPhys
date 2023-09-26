@@ -2,6 +2,7 @@
 ### Deep-learning Combinatorics
 
 * [Differentiation of blackbox combinatorial solvers](https://arxiv.org/pdf/1912.02175.pdf)
+* [Concrete dropout paper](https://arxiv.org/abs/1705.07832)
 
 ### Interferometer array configurations
 
